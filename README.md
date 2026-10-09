@@ -16,23 +16,6 @@ Upload a PDF resume, paste a job description, and get either a professional revi
 - **📎 PDF upload:** extracts text from text-based PDF resumes (first 10 pages)
 - **⚠️ Helpful messages:** clear warnings when no PDF is uploaded or no text can be extracted
 
----
-
-## 🖼️ Screenshots
-
-### Home
-![Home](screenshots/home.png)
-
-### Resume Review
-![Review 1](screenshots/review1.png)
-![Review 2](screenshots/review2.png)
-![Review 3](screenshots/review3.png)
-![Review 4](screenshots/review4.png)
-
-### Percentage Match
-![Percentage Match](screenshots/percentage_match.png)
-
----
 
 ## ⚙️ How It Works
 
