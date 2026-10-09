@@ -20,11 +20,17 @@ Upload a PDF resume, paste a job description, and get either a professional revi
 
 ## 🖼️ Screenshots
 
-> Replace the file names below with your own screenshots in the `screenshots/` folder.
+### Home
+![Home](screenshots/home.png)
 
-| Home | Resume Review | Percentage Match |
-|------|---------------|------------------|
-| ![Home](screenshots/home.png) | ![Review](screenshots/review.png) | ![Match](screenshots/match.png) |
+### Resume Review
+![Review 1](screenshots/review1.png)
+![Review 2](screenshots/review2.png)
+![Review 3](screenshots/review3.png)
+![Review 4](screenshots/review4.png)
+
+### Percentage Match
+![Percentage Match](screenshots/percentage_match.png)
 
 ---
 
